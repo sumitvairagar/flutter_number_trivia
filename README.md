@@ -5,13 +5,13 @@ Thanks to [Reso Coder](https://github.com/ResoCoder)
 
 # Screenshots
 #Home
-![Alt text](sceenshots/1.png "Home screen")
+![Alt text](screenshots/1.png "Home screen")
 
 #Input
-![Alt text](sceenshots/2.png "Input screen")
+![Alt text](screenshots/2.png "Input screen")
 
 #Result
-![Alt text](sceenshots/3.png "Result screen")
+![Alt text](screenshots/3.png "Result screen")
 
 
 ## Getting Started
