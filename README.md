@@ -4,14 +4,11 @@ A Flutter project by following [TDD Clean Architecture](https://resocoder.com/20
 Thanks to [Reso Coder](https://github.com/ResoCoder)
 
 # Screenshots
-#Home
-![Alt text](screenshots/1.png "Home screen")
+<img src="screenshots/1.png" width="40%">
 
-#Input
-![Alt text](screenshots/2.png "Input screen")
+<img src="screenshots/2.png" width="40%">
 
-#Result
-![Alt text](screenshots/3.png "Result screen")
+<img src="screenshots/3.png" width="40%">
 
 
 ## Getting Started
