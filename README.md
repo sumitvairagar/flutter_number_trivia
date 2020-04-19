@@ -1,6 +1,18 @@
-# number_game
+# number_game / number trivia
 
-A new Flutter project.
+A Flutter project by following [TDD Clean Architecture](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/). 
+Thanks to [Reso Coder](https://github.com/ResoCoder)
+
+# Screenshots
+#Home
+![Alt text](sceenshots/1.png "Home screen")
+
+#Input
+![Alt text](sceenshots/2.png "Input screen")
+
+#Result
+![Alt text](sceenshots/3.png "Result screen")
+
 
 ## Getting Started
 
